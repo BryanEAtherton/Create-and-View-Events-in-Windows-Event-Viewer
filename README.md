@@ -60,4 +60,7 @@ Here we will create events using SSMS in the Windows VM and observe them in Wind
 <img src="https://i.imgur.com/F7e5bMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
+
+<br />
 
