@@ -42,21 +42,22 @@ Here we will create events using SSMS in the Windows VM and observe them in Wind
 </p>
 
 <p>
- 3.
+ 3. Open Windows Event Viewer
 </p>
 <p>
-<img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y72gJDw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>   
-4.
+4. Under Windows Logs, Select Application.
 <p>
-<img src="https://i.imgur.com/vYFfEl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WJjbw1j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-5.
+5. Here we can see our failed logon attempts and more details about these events in the bottom portion of the window.
 <p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F7e5bMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
