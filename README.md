@@ -23,23 +23,22 @@ Here we will create events using SSMS in the Windows VM and observe them in Wind
 
 
 <p>
-1. 
+1. Starting from where we left off in the Install SSMS section, log out of the SSMS app. 
 </p>
 <p>
-<img src="https://i.imgur.com/QSn0enR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/shFG37A.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
   
-[Click here to view instructions on how to create an Azure VM and access it using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
-</p>
+[Click here to view the Install SSMS section](https://github.com/BryanEAtherton/Install-SSMS)
+
 <br />
 
 <p>
-2.
+2. Attempt to reconnect to the server and intentionally fail using incorrect passwords. Do this at least 3 times.
 </p>
 <p>
-<img src="https://i.imgur.com/CCWUnuQ.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/E7EQyPj.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vAt6M9b.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
