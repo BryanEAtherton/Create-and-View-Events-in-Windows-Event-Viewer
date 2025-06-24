@@ -5,7 +5,7 @@
 </p>
 
 <h1>Create and View Events in Windows Event Viewer</h1>
-Here we will create failed login events using SSMS in the Windows VM and observe them in Windows Event Viewer.
+Here we will create failed login events using SSMS in the Windows VM and observe them in Windows Event Viewer. Creating these logs is part of the larger Azure Honeynet and SOC project. 
 
 <h2>Operating System Used</h2>
 -Windows 10
