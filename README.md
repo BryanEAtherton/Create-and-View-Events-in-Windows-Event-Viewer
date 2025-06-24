@@ -1,4 +1,4 @@
-# Security Project 1
+# Windows Event Viewer Exercise 
 
 <p align="center">
 <img src="https://i.imgur.com/Yjq38L7.jpeg"/>
@@ -23,7 +23,7 @@ Here we will create failed login events using SSMS in the Windows VM and observe
 
 
 <p>
-1. Starting from where we left off in the Install SSMS section, log out of the SSMS app. 
+1. Starting from the end of the Install SSMS section in Azure Honeynet VM Setup, log out of the SSMS app. 
 </p>
 <p>
 <img src="https://i.imgur.com/shFG37A.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -60,7 +60,7 @@ Here we will create failed login events using SSMS in the Windows VM and observe
 <img src="https://i.imgur.com/F7e5bMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
+[Click here to return to my Github Homepage](https://github.com/BryanEAtherton)
 
 <br />
 
